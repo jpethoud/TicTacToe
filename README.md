@@ -3,11 +3,6 @@
 ## Description
 This project is a simple implementation of the classic Tic Tac Toe game. It is built with HTML, CSS, and JavaScript and can be run directly in a web browser.
 
-## Features
-- 2-player gameplay.
-- Simple and intuitive interface.
-- Responsive design for various screen sizes.
-
 ## Prerequisites
 To run this game, you will need a web browser such as Google Chrome, Mozilla Firefox, or Microsoft Edge.
 
